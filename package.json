@@ -17,7 +17,7 @@
     "gatsby-plugin-offline": "^3.3.2",
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-react-svg": "^3.0.0",
-    "gatsby-plugin-sharp": "^2.7.1",
+    "gatsby-plugin-sharp": "^4.23.0",
     "gatsby-remark-images": "^3.4.1",
     "gatsby-remark-source-name": "^1.0.0",
     "gatsby-source-airtable": "^2.1.1",
